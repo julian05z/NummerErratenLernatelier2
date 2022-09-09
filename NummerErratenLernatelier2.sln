@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NummerErratenLernatelier2", "NummerErratenLernatelier2\NummerErratenLernatelier2.csproj", "{687FD8A1-ED29-45B3-9B9F-FEE8657DA8C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{687FD8A1-ED29-45B3-9B9F-FEE8657DA8C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{687FD8A1-ED29-45B3-9B9F-FEE8657DA8C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{687FD8A1-ED29-45B3-9B9F-FEE8657DA8C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{687FD8A1-ED29-45B3-9B9F-FEE8657DA8C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F50C406-CD89-44C4-BA3E-33A19DA443BD}
+	EndGlobalSection
+EndGlobal
